@@ -2,3 +2,25 @@
     height: 100vh;
     font-family: 'Open Sans', monospace;
 }
+
+.btn-info{
+    background-color: #BF9D30;
+}
+
+.btn-success {
+    background-color: #BF5D30;
+}
+
+.card-header, .card-footer{
+    background-color: #26537C;
+}
+
+p,.card-footer{
+    font-size: 1.5rem;
+    color: white;
+} 
+
+.btn-link{
+    color: white;
+    font-size: 1.3rem;
+}
